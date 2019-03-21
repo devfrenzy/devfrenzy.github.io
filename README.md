@@ -1,3 +1,4 @@
+- 📺 [Contracts For Getting More Programs Less Wrong](https://www.youtube.com/watch?v=lNITrPhl2_A)
 - 📺 [The Whys and Hows of Database Streaming](https://www.youtube.com/watch?v=0K0fYHsFBZg) 3/16/2019
 - 📃 [Bond Basics](https://www.investopedia.com/university/bonds) 1/3/2019
 - 📺 [Neal Ford - Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s) 12/22/2018
