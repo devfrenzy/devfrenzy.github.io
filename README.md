@@ -1,3 +1,5 @@
+- 🎓 [DevOps for the Database](https://www.linkedin.com/learning/devops-for-the-database-with-tfs-2018) 3/26/2019
+
 - 📺 [Contracts For Getting More Programs Less Wrong](https://www.youtube.com/watch?v=lNITrPhl2_A) 3/20/2019
 
 - 📺 [The Whys and Hows of Database Streaming](https://www.youtube.com/watch?v=0K0fYHsFBZg) 3/16/2019
